@@ -1,5 +1,9 @@
 # image-captioning
-Praca magisterska
+Praca magisterska. Praca zawiera 4 gałęzie:
+- `main` - zawiera metodę bazową <br>
+- `ds-lstm`- podstawowy model enkoder-dekoder rozszerzony o deep stacked lstm <br>
+- `local-attention` - podstawowy model enkoder-dekoder rozszerzony o atencję przyłączeniową <br>
+- `attention_transformers` - model enkoder-dekoder wykorzystujący architekturę Transformer <br>
 
 ## Struktura folderów
 To repozytorium zawiera jedynie niezbędny notebook. Do nauczenia podstawowego
